@@ -6,3 +6,5 @@
 - `git reset HEAD~` - undos the last commit + unstages the changes
 - COMMIT 4
 - `git reset HEAD~ --soft` - undos the last commit + keeps the changes staged
+- `git revert --no-commit fecff0f312dfc965353498c0564734a07147d1c5 HEAD` - deletes the data upto the given commit hash
+- `git checkout fecff0f312dfc965353498c0564734a07147d1c5` - just goes to that commit
