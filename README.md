@@ -7,3 +7,4 @@
 - COMMIT 4
 - `git reset HEAD~ --soft` - undos the last commit + keeps the changes staged
 - COMMIT 5
+- COMMIT Garbage
