@@ -10,4 +10,3 @@
 - `git checkout fecff0f312dfc965353498c0564734a07147d1c5` - just goes to that commit
 - `git reset fecff0f312dfc965353498c0564734a07147d1c5 --hard` - goes to this commit
   - `git push -f origin main` - overwrites the changes on remote (branch before after this becomes invisible)
-- COMMIT 5
